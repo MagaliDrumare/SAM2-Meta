@@ -3,5 +3,5 @@ Our latest model, SAM 2, is the first unified model for real-time, promptable ob
 - release : https://ai.meta.com/blog/segment-anything-2/
 - démo : https://sam2.metademolab.com/demo
 - Github : https://github.com/facebookresearch/segment-anything-2/tree/main
-- Florence + SAM : https://huggingface.co/spaces/SkalskiP/florence-sam
+- Florence + SAM : https://huggingface.co/spaces/SkalskiP/florence-sam (Florence by Microsoft : https://github.com/MagaliDrumare/Florence-2-Microsoft-) 
   
